@@ -3900,7 +3900,7 @@
 		)
 		(uuid "196f0991-a39e-41f6-afa9-7f02969fa5f4")
 	)
-	(label "OUT6PW"
+	(label "OUT6LN"
 		(at 240.03 97.79 0)
 		(effects
 			(font
@@ -3960,7 +3960,7 @@
 		)
 		(uuid "3ff14c04-8a0c-4e4f-b2bc-88a912abf254")
 	)
-	(label "OUT5PW"
+	(label "OUT5LN"
 		(at 240.03 92.71 0)
 		(effects
 			(font
@@ -3970,7 +3970,7 @@
 		)
 		(uuid "4694fb3f-6d13-49a5-92ef-2767934fb48b")
 	)
-	(label "OUT7PW"
+	(label "OUT7LN"
 		(at 240.03 130.81 0)
 		(effects
 			(font
@@ -3980,7 +3980,7 @@
 		)
 		(uuid "4c533606-23ed-4968-8a40-ec4c79e2c9a3")
 	)
-	(label "OUT3PW"
+	(label "OUT3LN"
 		(at 240.03 54.61 0)
 		(effects
 			(font
@@ -4070,7 +4070,7 @@
 		)
 		(uuid "785c3283-e85f-4709-b07d-0c3e13a764e3")
 	)
-	(label "OUT2PW"
+	(label "OUT2LN"
 		(at 240.03 21.59 0)
 		(effects
 			(font
@@ -4100,7 +4100,7 @@
 		)
 		(uuid "96d2e6d7-9c3b-482a-86ec-6c30370c6c63")
 	)
-	(label "OUT4PW"
+	(label "OUT4LN"
 		(at 240.03 59.69 0)
 		(effects
 			(font
@@ -4130,7 +4130,7 @@
 		)
 		(uuid "bbf9d67f-47fb-4b3a-b4a1-6818ad00d1ed")
 	)
-	(label "OUT1PW"
+	(label "OUT1LN"
 		(at 240.03 16.51 0)
 		(effects
 			(font
@@ -4150,7 +4150,7 @@
 		)
 		(uuid "d27283a2-ef3c-47b6-bdb3-d4e35ce7d205")
 	)
-	(label "OUT8PW"
+	(label "OUT8LN"
 		(at 240.03 135.89 0)
 		(effects
 			(font
