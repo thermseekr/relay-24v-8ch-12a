@@ -8,9 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "8x 24V 12A Relay Module")
-		(date "2026-06-12")
-		(rev "V1.1")
+		(title "eumesmo 8x 24V 12A NO Relay Module")
+		(date "2026-06-13")
+		(rev "V1.2")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -21332,12 +21332,12 @@
 		)
 	)
 	(gr_text "MAX 12A PER CHANNEL"
-		(at 138.55 68 0)
+		(at 138.55 67.25 0)
 		(layer "F.SilkS")
 		(uuid "fcf77a7f-8f5b-415d-909a-1f57b2d8e192")
 		(effects
 			(font
-				(size 1 1)
+				(size 1 0.9)
 				(thickness 0.15)
 			)
 		)
@@ -21518,14 +21518,14 @@
 			)
 		)
 	)
-	(gr_text "RELAY-24V-8CH-12A-V1"
+	(gr_text "eumesmo-rl-8ch12a"
 		(at 138.55 65.5 0)
 		(layer "F.SilkS")
 		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
 		(effects
 			(font
-				(size 1.5 1.1)
-				(thickness 0.25)
+				(size 1.5 1)
+				(thickness 0.2)
 				(bold yes)
 			)
 		)
